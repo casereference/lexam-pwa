@@ -1,0 +1,21 @@
+{
+  "name": "Lexam - Bar & Judicial Exam Prep",
+  "short_name": "Lexam",
+  "description": "বার ও জুডিসিয়ারি প্রস্তুতি এক প্ল্যাটফর্মে",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#e6e6e6",
+  "theme_color": "#27ae60",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
