@@ -4,7 +4,7 @@
   "description": "বার ও জুডিসিয়ারি প্রস্তুতি এক প্ল্যাটফর্মে",
   "start_url": "https://bbcexam.blogspot.com/?source=pwa",
   "display": "standalone",
-  "background_color": "transparent",
+  "background_color": "#e6e6e6",
   "theme_color": "transparent",
   "icons": [
     {
@@ -19,4 +19,5 @@
     }
   ]
 }
+
 
