@@ -17,5 +17,10 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+"navigation_bar": {
+  "color": "#e6e6e6"
 }
+
+}
+
